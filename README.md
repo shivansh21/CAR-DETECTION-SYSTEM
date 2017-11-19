@@ -43,5 +43,5 @@ finds and reads printed words contained within images. Analyze images "uploaded 
   m.) export GOOGLE_APPLICATION_CREDENTIALS=~/gcloudstuff/apikey.json , copy this path.<br>
   n.) paste this on : nano ~/.profile , save it<br>
   o.) source ~/.bashrc<br>
-  p.) mkdir visionex --> cd visionex<hr><br>
+  p.) mkdir visionex --> cd visionex<br>
   q.) nano vision.py and hit enter , now it will open an python ide.<br>
