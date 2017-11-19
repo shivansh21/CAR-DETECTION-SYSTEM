@@ -1,0 +1,24 @@
+** images link for testing **
+
+1.) https://qph.ec.quoracdn.net/main-qimg-9e7bf77d877840cca3a35899f791978b-c
+2.) https://i.stack.imgur.com/fgDry.jpg
+3.) http://www.number1plates.com/wp-content/uploads/2016/03/BMW-16-Plate-Car-for-Blog-300x300.png
+4.) https://printpoint.ie/content/images/car-number-plate/number-plates-ireland.jpg
+5.) http://i.dailymail.co.uk/i/pix/2014/04/11/article-2602104-1D0282CB00000578-778_634x439.jpg
+6.) https://cdn.images.express.co.uk/img/dynamic/24/590x/DVLA-number-plates-2017-67-new-car-847566.jpg
+7.) https://static1.squarespace.com/static/515ce6c8e4b0ba196f61d6d7/t/55fd5bf3e4b0518e87686ef5/1442667793760/
+
+** how to check **
+1. first get the image from the link: wget <link>
+2. It will load to the folder and save there only.
+3. access it inside the code as mentioned in documentation <file_names = " ">
+4. Just save it and execute .
+ 
+** Results **
+Result will execute on compiler and also write the results in Data.txt file.
+
+** commands for execution **
+1. python <your_file_name>.py
+2. For viewing the text file: vim Data.txt
+
+---------------------------------------------------------- COMPLETED -----------------------------------------------------------------------------------------------
