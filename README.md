@@ -1,7 +1,5 @@
 # CAR-DETECTION-SYSTEM
 
------------------------------------- CAR DETECTION SYSTEM: DOCUMENTATION -------------------------------------------------
-
 <h4>*** INTRODUCTION ***</h4>
 
 CAR DETECTION SYSTEM IS AN CLOUD BASED APPLICATION USES COMPUTER VISION WHICH HAS THE POWER OF RECOGNISING THE IMAGE LABELS, WEB-ENTITIES AND VARIOUS OTHER PROPERTIES ALSO 
@@ -13,7 +11,7 @@ finds and reads printed words contained within images. Analyze images "uploaded 
 
 <h4>*** HOW IT WORKS ***</h4>
 
-A.) INTRO AND CREATING A VIRTUAL MACHINE ON GOOGLE CLOUD PLATFORM:
+<h5>A.)</h5> INTRO AND CREATING A VIRTUAL MACHINE ON GOOGLE CLOUD PLATFORM:
   a.) Create account on google cloud platform.
   b.) Open Console Window.
   c.) Create project of your desired name.
@@ -30,7 +28,7 @@ A.) INTRO AND CREATING A VIRTUAL MACHINE ON GOOGLE CLOUD PLATFORM:
   l.) It'll take several minutes to setup your instance. Till that time GOTO-->PuTTY Configuration--> SSH--> auth -->'Browse ppk file from your local disc'
 (private key)--> Session--->put external IP address in Host Name(copy from instance) --->click Yes and enter in server console.
  
-B.) COMMANDS TO BE ENTERED IN SERVER CONSOLE:
+<h5>B.)</h5> COMMANDS TO BE ENTERED IN SERVER CONSOLE:
   a.) login: enter <username> (replace special symbols with undercores) hit enter and boom you are inside the virtual machine.
   b.) sudo apt-get install htop (this interface is passwordless sudo)
   c.) sudo su
